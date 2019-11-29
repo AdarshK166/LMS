@@ -1,0 +1,53 @@
+c:\users\adarshk\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form2.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form3.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form4.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Addf.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.delt.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Updt.resources
+C:\Users\AdarshK\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.LMS.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\bin\Debug\LMS.exe.manifest
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\bin\Debug\LMS.application
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.Addf.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.delt.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.LMS.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.Form2.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.Form3.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.Form4.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.Updt.resources
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.exe.manifest
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.application
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\chira\Desktop\Adarsh\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\bin\Debug\LMS.exe.manifest
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\bin\Debug\LMS.application
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.Addf.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.delt.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.LMS.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.Form2.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.Form3.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.Form4.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.Updt.resources
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.exe.manifest
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.application
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Xx_MA5TER5AINT_xX\Desktop\LMS\LMS\obj\Debug\LMS.pdb
